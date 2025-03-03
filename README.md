@@ -5,7 +5,9 @@
 - KDD 2023 `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
 - IJCAI 2024 `GR` A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
 
+
 # Recent Read Papers
+- NeurIPS 2024 `LLM+Graph` LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b77d3a82b59e9d9899370b378087faf-Abstract-Conference.html)</u>
 - WWW 2025 `GFM` GraphCLIP: Enhancing Transferability in Graph Foundation  Models for Text-Attributed Graphs, <u>[arXiv](https://arxiv.org/abs/2502.05424)</u> / <u>[github](https://github.com/ZhuYun97/GraphCLIP)</u>
 - NeurIPS 2023, `GSL` OpenGSL: A Comprehensive Benchmark for Graph Structure Learning, <u>[website](https://papers.nips.cc/paper_files/paper/2023/hash/39f8ef62e061042cca8c8f46d7e0e31b-Abstract-Datasets_and_Benchmarks.html)</u> / <u>[github](https://github.com/OpenGSL/OpenGSL)</u>
 - WWW 2022, `GSL` Towards unsupervised deep graph structure learning, <u>[website](https://dl.acm.org/doi/10.1145/3485447.3512186)</u> / <u>[github](https://github.com/TrustAGI-Lab/SUBLIME/tree/main)</u>
