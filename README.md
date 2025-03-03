@@ -1,8 +1,9 @@
 # Reading List
+- CIKM 2024 `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
 - NeurIPS 2024 `GFM` GLBench: A Comprehensive Benchmark for Graph with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2407.07457)</u>
 - NeurIPS 2024 `GFM` Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights, <u>[arXiv](https://arxiv.org/abs/2406.10727)</u>
 - KDD 2023 `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
-- IJCAI 2024 `GR` AComprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
+- IJCAI 2024 `GR` A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
 
 # Recent Read Papers
 - WWW 2025 `GFM` GraphCLIP: Enhancing Transferability in Graph Foundation  Models for Text-Attributed Graphs, <u>[arXiv](https://arxiv.org/abs/2502.05424)</u> / <u>[github](https://github.com/ZhuYun97/GraphCLIP)</u>
