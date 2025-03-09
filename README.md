@@ -12,6 +12,7 @@
 
 
 # Recent Read Papers
+- ICLR 2025, `GP` Edge Prompt Tuning for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2503.00750)</u>
 - ICML 2024, `LLM+Graph` LLaGA: Large Language and Graph Assistant, <u>[arXiv](https://arxiv.org/abs/2402.08170)</u>
 - SIGIR 2024, `LLM+Graph` GraphGPT: Graph Instruction Tuning for Large Language Models, <u>[arXiv](https://arxiv.org/abs/2310.13023)</u>
 - NeurIPS 2024, `LLM+Graph` LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b77d3a82b59e9d9899370b378087faf-Abstract-Conference.html)</u>
