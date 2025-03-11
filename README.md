@@ -1,5 +1,4 @@
 # Reading List
-- NeurIPS 2024, `GNN` Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification, <u>[arXiv](https://arxiv.org/html/2406.08993)</u>
 - NeurIPS 2024, `GRL` Revisiting the Message Passing in Heterophilous Graph Neural Networks, <u>[website](https://openreview.net/forum?id=7g8WSOHJtP)</u>, <u>[arXiv](https://arxiv.org/abs/2405.17768)</u>
 - NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
 - CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
@@ -12,6 +11,8 @@
 
 
 # Recent Read Papers
+- NeurIPS 2024, `GNN` Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification, <u>[arXiv](https://arxiv.org/html/2406.08993)</u>
+- WWW 2025, `GNN` Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection, <u>[website](https://openreview.net/forum?id=6B6AmBaWfv#discussion)</u>
 - ICLR 2025, `GP` Edge Prompt Tuning for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2503.00750)</u>
 - ICML 2024, `LLM+Graph` LLaGA: Large Language and Graph Assistant, <u>[arXiv](https://arxiv.org/abs/2402.08170)</u>
 - SIGIR 2024, `LLM+Graph` GraphGPT: Graph Instruction Tuning for Large Language Models, <u>[arXiv](https://arxiv.org/abs/2310.13023)</u>
