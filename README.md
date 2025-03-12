@@ -1,4 +1,6 @@
 # Reading List
+- WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
+- KDD 2022, `GRL` GraphMAE: Self-Supervised Masked Graph Autoencoders, <u>[arXiv](https://arxiv.org/abs/2205.10803)</u>
 - NeurIPS 2024, `GRL` Revisiting the Message Passing in Heterophilous Graph Neural Networks, <u>[website](https://openreview.net/forum?id=7g8WSOHJtP)</u>, <u>[arXiv](https://arxiv.org/abs/2405.17768)</u>
 - NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
 - CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
@@ -11,6 +13,7 @@
 
 
 # Recent Read Papers
+- ICLR 2023, `GNN` A critical look at the evaluation of GNNs under heterophily: Are we really making progress?, <u>[website](https://openreview.net/forum?id=tJbbQfw-5wv)</u>
 - NeurIPS 2024, `GNN` Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification, <u>[arXiv](https://arxiv.org/html/2406.08993)</u>
 - WWW 2025, `GNN` Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection, <u>[website](https://openreview.net/forum?id=6B6AmBaWfv#discussion)</u>
 - ICLR 2025, `GP` Edge Prompt Tuning for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2503.00750)</u>
