@@ -1,18 +1,20 @@
 # Reading List
+- arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really
+ Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
+- ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
-- KDD 2022, `GRL` GraphMAE: Self-Supervised Masked Graph Autoencoders, <u>[arXiv](https://arxiv.org/abs/2205.10803)</u>
-- NeurIPS 2024, `GRL` Revisiting the Message Passing in Heterophilous Graph Neural Networks, <u>[website](https://openreview.net/forum?id=7g8WSOHJtP)</u>, <u>[arXiv](https://arxiv.org/abs/2405.17768)</u>
 - NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
 - CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
 - NeurIPS 2024, `GFM` GLBench: A Comprehensive Benchmark for Graph with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2407.07457)</u>
 - NeurIPS 2024, `GFM` Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights, <u>[arXiv](https://arxiv.org/abs/2406.10727)</u>
 - KDD 2023, `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
-- IJCAI 2024, `GR` A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
 - KDD-Exp 2023, `LLM+Graph` Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs, <u>[arXiv](https://arxiv.org/abs/2307.03393)</u>
 - NeurIPS-WS 2023, `LLM+Graph` Can LLMs Effectively Leverage Graph Structural Information: When and Why, <u>[website](https://openreview.net/forum?id=jyfiPivRBH)</u>
 
 
 # Recent Read Papers
+- KDD 2022, `GRL` GraphMAE: Self-Supervised Masked Graph Autoencoders, <u>[arXiv](https://arxiv.org/abs/2205.10803)</u>
+- IJCAI 2024, `GR` A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
 - ICLR 2023, `GNN` A critical look at the evaluation of GNNs under heterophily: Are we really making progress?, <u>[website](https://openreview.net/forum?id=tJbbQfw-5wv)</u>
 - NeurIPS 2024, `GNN` Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification, <u>[arXiv](https://arxiv.org/html/2406.08993)</u>
 - WWW 2025, `GNN` Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection, <u>[website](https://openreview.net/forum?id=6B6AmBaWfv#discussion)</u>
