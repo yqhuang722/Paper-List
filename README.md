@@ -12,6 +12,8 @@
 
 
 # Recent Read Papers
+- ICLR 2022, `GR` Graph condensation for graph neural networks, <u>[arXiv](https://arxiv.org/abs/2110.07580)</u> / <u>[website](https://openreview.net/forum?id=WLEx3Jo4QaB)</u>
+- KDD 2021, `GR` Scaling Up Graph Neural Networks Via Graph Coarsening, <u>[arXiv](https://arxiv.org/abs/2106.05150)</u> / <u>[website](https://openreview.net/forum?id=tJbbQfw-5wv)</u>
 - KDD 2022, `GRL` GraphMAE: Self-Supervised Masked Graph Autoencoders, <u>[arXiv](https://arxiv.org/abs/2205.10803)</u>
 - IJCAI 2024, `GR` A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation, <u>[arXiv](https://arxiv.org/abs/2402.03358)</u>
 - ICLR 2023, `GNN` A critical look at the evaluation of GNNs under heterophily: Are we really making progress?, <u>[website](https://openreview.net/forum?id=tJbbQfw-5wv)</u>
