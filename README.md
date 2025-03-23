@@ -1,9 +1,9 @@
 # Reading List
+- NeurIPS 2021, `GFL` Subgraph Federated Learning with Missing Neighbor Generation, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)</u>
 - arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
 - ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
 - NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
-- CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
 - NeurIPS 2024, `GFM` GLBench: A Comprehensive Benchmark for Graph with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2407.07457)</u>
 - NeurIPS 2024, `GFM` Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights, <u>[arXiv](https://arxiv.org/abs/2406.10727)</u>
 - KDD 2023, `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
@@ -12,6 +12,8 @@
 
 
 # Recent Read Papers
+- arXiv 2025.03, `GFM` A Survey of Cross-domain Graph Learning: Progress and Future Directions, <u>[arXiv](https://arxiv.org/abs/2503.11086v1)</u>
+- CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
 - ICLR 2022, `GR` Graph condensation for graph neural networks, <u>[arXiv](https://arxiv.org/abs/2110.07580)</u> / <u>[website](https://openreview.net/forum?id=WLEx3Jo4QaB)</u>
 - KDD 2021, `GR` Scaling Up Graph Neural Networks Via Graph Coarsening, <u>[arXiv](https://arxiv.org/abs/2106.05150)</u> / <u>[website](https://openreview.net/forum?id=tJbbQfw-5wv)</u>
 - KDD 2022, `GRL` GraphMAE: Self-Supervised Masked Graph Autoencoders, <u>[arXiv](https://arxiv.org/abs/2205.10803)</u>
