@@ -12,6 +12,7 @@
 
 
 # Recent Read Papers
+- arXiv 2024.04, `GraphRAG` From Local to Global: A Graph RAG Approach to Query-Focused Summarization, <u>[arXiv](https://arxiv.org/abs/2404.16130)</u>
 - arXiv 2025.03, `GFM` A Survey of Cross-domain Graph Learning: Progress and Future Directions, <u>[arXiv](https://arxiv.org/abs/2503.11086v1)</u>
 - CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
 - ICLR 2022, `GR` Graph condensation for graph neural networks, <u>[arXiv](https://arxiv.org/abs/2110.07580)</u> / <u>[website](https://openreview.net/forum?id=WLEx3Jo4QaB)</u>
