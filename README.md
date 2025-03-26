@@ -1,5 +1,4 @@
 # Reading List
-- NeurIPS 2021, `GFL` Subgraph Federated Learning with Missing Neighbor Generation, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)</u>
 - arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
 - ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
@@ -12,6 +11,10 @@
 
 
 # Recent Read Papers
+- AAAI 2023, `GFL` Federated learning on non-iid graphs via structural knowledge sharing, <u>[arXiv](https://arxiv.org/abs/2211.13009)</u> / <u>[website](https://dl.acm.org/doi/abs/10.1609/aaai.v37i8.26187)</u>
+- NeurIPS 2021, `GFL` Subgraph Federated Learning with Missing Neighbor Generation, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)</u>
+- KDD 2020, `GRL` GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training, <u>[arXiv](https://arxiv.org/abs/2006.09963)</u>
+- WWW 2024, `GRL` GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning, <u>[arXiv](https://arxiv.org/abs/2310.07365)</u> / <u>[website](https://dl.acm.org/doi/abs/10.1145/3589334.3645439)</u>
 - arXiv 2024.04, `GraphRAG` From Local to Global: A Graph RAG Approach to Query-Focused Summarization, <u>[arXiv](https://arxiv.org/abs/2404.16130)</u>
 - arXiv 2025.03, `GFM` A Survey of Cross-domain Graph Learning: Progress and Future Directions, <u>[arXiv](https://arxiv.org/abs/2503.11086v1)</u>
 - CIKM 2024, `GRL` Spectral-Aware Augmentation for Enhanced Graph Representation Learning, <u>[arXiv](https://arxiv.org/abs/2310.13845)</u>
