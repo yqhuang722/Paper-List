@@ -1,4 +1,7 @@
 # Reading List
+- arXiv 2025.03 `GFM` Towards Graph Foundation Models: A Transferability Perspective, <u>[arXiv](https://arxiv.org/abs/2503.09363v1)</u>
+- TPAMI 2025, `GFM` Graph Foundation Models: Concepts, Opportunities and Challenges, <u>[arXiv](https://arxiv.org/abs/2310.11829v4)</u>
+- arXiv 2024.06, `GFM` GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment, <u>[arXiv](https://arxiv.org/abs/2406.02953)</u>
 - arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
 - ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
