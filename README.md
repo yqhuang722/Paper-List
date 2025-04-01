@@ -1,10 +1,10 @@
 # Reading List
-- arXiv 2025.03 `GFM` Towards Graph Foundation Models: A Transferability Perspective, <u>[arXiv](https://arxiv.org/abs/2503.09363v1)</u>
+- WWW 2025, `LLM+Graph`  UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs, <u>[arXiv](https://arxiv.org/abs/2502.00806#:~:text=To%20address%20these%20limitations%2C%20we%20propose%20UniGraph2%2C%20a,learning%20on%20MMGs%2C%20providing%20a%20unified%20embedding%20space.)</u>
+- arXiv 2025.03, `GFM` Towards Graph Foundation Models: A Transferability Perspective, <u>[arXiv](https://arxiv.org/abs/2503.09363v1)</u>
 - TPAMI 2025, `GFM` Graph Foundation Models: Concepts, Opportunities and Challenges, <u>[arXiv](https://arxiv.org/abs/2310.11829v4)</u>
 - arXiv 2024.06, `GFM` GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment, <u>[arXiv](https://arxiv.org/abs/2406.02953)</u>
 - arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
 - ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
-- NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
 - NeurIPS 2024, `GFM` GLBench: A Comprehensive Benchmark for Graph with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2407.07457)</u>
 - NeurIPS 2024, `GFM` Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights, <u>[arXiv](https://arxiv.org/abs/2406.10727)</u>
 - KDD 2023, `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
@@ -13,6 +13,8 @@
 
 
 # Recent Read Papers
+- KDD 2024, `LLM+Graph` UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs, <u>[arXiv](https://arxiv.org/abs/2402.13630)</u>
+- NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
 - WWW 2023, `GRL` GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner, <u>[arXiv](https://arxiv.org/abs/2304.04779)</u>
 - AAAI 2023, `GFL` Federated learning on non-iid graphs via structural knowledge sharing, <u>[arXiv](https://arxiv.org/abs/2211.13009)</u> / <u>[website](https://dl.acm.org/doi/abs/10.1609/aaai.v37i8.26187)</u>
 - NeurIPS 2021, `GFL` Subgraph Federated Learning with Missing Neighbor Generation, <u>[website](https://proceedings.neurips.cc/paper_files/paper/2021/file/34adeb8e3242824038aa65460a47c29e-Paper.pdf)</u>
