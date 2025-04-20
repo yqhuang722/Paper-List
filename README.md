@@ -13,6 +13,7 @@
 
 
 # Recent Read Papers
+- ICLR 2025, `GFL` Subgraph Federated Learning for Local Generalizatioin, <u>[arXiv](https://arxiv.org/abs/2503.03995)</u> / <u>[website](https://openreview.net/forum?id=cH65nS5sOz)</u>
 - CVPR 2025, `GFL` FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, <u>[website](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)</u>
 - KDD 2024, `LLM+Graph` UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs, <u>[arXiv](https://arxiv.org/abs/2402.13630)</u>
 - NeurIPS 2024, `GNN` Graph Neural Networks Need Cluster-Normalize-Activate Modules, <u>[website](https://openreview.net/forum?id=faj2EBhdHC)</u>
