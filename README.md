@@ -4,7 +4,6 @@
 - TPAMI 2025, `GFM` Graph Foundation Models: Concepts, Opportunities and Challenges, <u>[arXiv](https://arxiv.org/abs/2310.11829v4)</u>
 - arXiv 2024.06, `GFM` GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment, <u>[arXiv](https://arxiv.org/abs/2406.02953)</u>
 - arXiv 2024.09, `GRL` Are Heterophilic GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks, <u>[arXiv](https://arxiv.org/abs/2409.05755)</u>
-- ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - NeurIPS 2024, `GFM` GLBench: A Comprehensive Benchmark for Graph with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2407.07457)</u>
 - NeurIPS 2024, `GFM` Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights, <u>[arXiv](https://arxiv.org/abs/2406.10727)</u>
 - KDD 2023, `GR` Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks, <u>[arXiv](https://arxiv.org/abs/2306.14375)</u>
@@ -13,6 +12,7 @@
 
 
 # Recent Read Papers
+- ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - ICLR 2025, `GFL` Subgraph Federated Learning for Local Generalizatioin, <u>[arXiv](https://arxiv.org/abs/2503.03995)</u> / <u>[website](https://openreview.net/forum?id=cH65nS5sOz)</u>
 - CVPR 2025, `GFL` FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, <u>[website](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)</u>
 - KDD 2024, `LLM+Graph` UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs, <u>[arXiv](https://arxiv.org/abs/2402.13630)</u>
