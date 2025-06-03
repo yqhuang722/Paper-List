@@ -12,6 +12,9 @@
 
 
 # Recent Read Papers
+- ICML 2025, `GP` Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis, <u>[arXiv](https://arxiv.org/abs/2410.01635)</u>
+- ICML 2025, `GNN` Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks, <u>[arXiv](https://arxiv.org/abs/2502.14546)</u>
+- ICLR 2023, `GRL` Specformer: Spectral Graph Neural Networks Meet Transformers, <u>[arXiv](https://arxiv.org/abs/2303.01028)</u>
 - ICLR 2025, `GFM` Fully-inductive Node Classification on Arbitrary Graphs, <u>[website](https://openreview.net/forum?id=1Qpt43cqhg)</u>, <u>[arXiv](https://arxiv.org/html/2405.20445v4)</u>
 - ICLR 2025, `GFL` Subgraph Federated Learning for Local Generalizatioin, <u>[arXiv](https://arxiv.org/abs/2503.03995)</u> / <u>[website](https://openreview.net/forum?id=cH65nS5sOz)</u>
 - CVPR 2025, `GFL` FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity, <u>[website](https://www.cs.emory.edu/~jyang71/files/fedspa.pdf)</u>
