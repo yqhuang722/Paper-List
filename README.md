@@ -1,5 +1,6 @@
 # Reading List
-- ICLR 2024, `GNN` VQGRAPH: Graph Vector-Quantization for Bridging GNNs and MLPs, <u>[arXiv](https://arxiv.org/abs/2308.02117)</u>
+- ICLR 2025, `GNN` Learning Graph Quantized Tokenizers, <u>[arXiv](https://arxiv.org/abs/2410.13798)</u> / <u>[website](https://openreview.net/forum?id=oYSsbY3G4o)</u>
+- ICLR 2024, `GNN` VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs, <u>[arXiv](https://arxiv.org/abs/2308.02117)</u>
 - WWW 2025, `LLM+Graph`  UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs, <u>[arXiv](https://arxiv.org/abs/2502.00806#:~:text=To%20address%20these%20limitations%2C%20we%20propose%20UniGraph2%2C%20a,learning%20on%20MMGs%2C%20providing%20a%20unified%20embedding%20space.)</u>
 - arXiv 2025.03, `GFM` Towards Graph Foundation Models: A Transferability Perspective, <u>[arXiv](https://arxiv.org/abs/2503.09363v1)</u>
 - TPAMI 2025, `GFM` Graph Foundation Models: Concepts, Opportunities and Challenges, <u>[arXiv](https://arxiv.org/abs/2310.11829v4)</u>
