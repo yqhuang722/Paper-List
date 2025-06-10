@@ -1,4 +1,5 @@
 # Reading List
+- ICLR 2024, `GNN` VQGRAPH: Graph Vector-Quantization for Bridging GNNs and MLPs, <u>[arXiv](https://arxiv.org/abs/2308.02117)</u>
 - WWW 2025, `LLM+Graph`  UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs, <u>[arXiv](https://arxiv.org/abs/2502.00806#:~:text=To%20address%20these%20limitations%2C%20we%20propose%20UniGraph2%2C%20a,learning%20on%20MMGs%2C%20providing%20a%20unified%20embedding%20space.)</u>
 - arXiv 2025.03, `GFM` Towards Graph Foundation Models: A Transferability Perspective, <u>[arXiv](https://arxiv.org/abs/2503.09363v1)</u>
 - TPAMI 2025, `GFM` Graph Foundation Models: Concepts, Opportunities and Challenges, <u>[arXiv](https://arxiv.org/abs/2310.11829v4)</u>
@@ -12,6 +13,7 @@
 
 
 # Recent Read Papers
+- arXiv 2025.05, `FGL` Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement, <u>[arXiv](https://arxiv.org/abs/2505.12684)</u>
 - ICML 2025, `GP` Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis, <u>[arXiv](https://arxiv.org/abs/2410.01635)</u>
 - ICML 2025, `GNN` Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks, <u>[arXiv](https://arxiv.org/abs/2502.14546)</u>
 - ICLR 2023, `GRL` Specformer: Spectral Graph Neural Networks Meet Transformers, <u>[arXiv](https://arxiv.org/abs/2303.01028)</u>
