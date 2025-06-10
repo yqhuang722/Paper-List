@@ -1,4 +1,5 @@
 # Reading List
+- NeurIPS 2024, `GFM` GFT: Graph Foundation Model with Transferable Tree Vocabulary, <u>[arXiv](https://arxiv.org/abs/2411.06070)</u>
 - ICLR 2025, `GNN` Learning Graph Quantized Tokenizers, <u>[arXiv](https://arxiv.org/abs/2410.13798)</u> / <u>[website](https://openreview.net/forum?id=oYSsbY3G4o)</u>
 - ICLR 2024, `GNN` VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs, <u>[arXiv](https://arxiv.org/abs/2308.02117)</u>
 - WWW 2025, `LLM+Graph`  UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs, <u>[arXiv](https://arxiv.org/abs/2502.00806#:~:text=To%20address%20these%20limitations%2C%20we%20propose%20UniGraph2%2C%20a,learning%20on%20MMGs%2C%20providing%20a%20unified%20embedding%20space.)</u>
