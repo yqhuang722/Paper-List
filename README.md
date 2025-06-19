@@ -15,6 +15,9 @@
 
 
 # Recent Read Papers
+- AAAI 2023, `HGRL` Heterogeneous Graph Masked Autoencoders, <u>[arXiv](https://arxiv.org/abs/2208.09957)</u>
+- KDD 2021, `HGRL` Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning, <u>[arXiv](https://arxiv.org/abs/2105.09111)</u>
+- arXiv 2024.11, `FGL` Against Multifaceted Graph Heterogeneity via Asymmetric Federated Prompt Learning, <u>[arXiv](https://arxiv.org/abs/2411.02003)</u>
 - arXiv 2025.05, `FGL` Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement, <u>[arXiv](https://arxiv.org/abs/2505.12684)</u>
 - ICML 2025, `GP` Does Graph Prompt Work? A Data Operation Perspective with Theoretical Analysis, <u>[arXiv](https://arxiv.org/abs/2410.01635)</u>
 - ICML 2025, `GNN` Position: Graph Learning Will Lose Relevance Due To Poor Benchmarks, <u>[arXiv](https://arxiv.org/abs/2502.14546)</u>
