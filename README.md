@@ -15,6 +15,9 @@
 
 
 # Recent Read Papers
+- AAAI 2025, `LLM+Graph` Multi-View Empowered Structural Graph Wordification for Language Models, <u>[arXiv](https://arxiv.org/abs/2406.15504)</u>
+- ICLR 2023, `GNN4Bio` Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules, <u>[website](https://openreview.net/forum?id=jevY-DtiZTR)</u>
+- arXiv 2025.02, `GNN` A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models, <u>[arXiv](https://arxiv.org/abs/2502.00681)</u>
 - KDD 2025, `GP` Graph Prompting for Graph Learning Models: Recent Advances and Future Directions, <u>[arXiv](https://arxiv.org/abs/2506.08326)</u>
 - AAAI 2023, `HGRL` Heterogeneous Graph Masked Autoencoders, <u>[arXiv](https://arxiv.org/abs/2208.09957)</u>
 - KDD 2021, `HGRL` Self-supervised Heterogeneous Graph Neural Network with Co-contrastive Learning, <u>[arXiv](https://arxiv.org/abs/2105.09111)</u>
