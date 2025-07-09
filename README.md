@@ -1,3 +1,5 @@
+try
+
 # Reading List
 - NeurIPS 2024, `GFM` GFT: Graph Foundation Model with Transferable Tree Vocabulary, <u>[arXiv](https://arxiv.org/abs/2411.06070)</u>
 - ICLR 2025, `GNN` Learning Graph Quantized Tokenizers, <u>[arXiv](https://arxiv.org/abs/2410.13798)</u> / <u>[website](https://openreview.net/forum?id=oYSsbY3G4o)</u>
