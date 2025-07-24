@@ -14,7 +14,7 @@
 - NeurIPS-WS 2023, `LLM+Graph` Can LLMs Effectively Leverage Graph Structural Information: When and Why, <u>[website](https://openreview.net/forum?id=jyfiPivRBH)</u>
 
 
-# Recent Read Papers  
+# Recent Read Papers
 - ICLR 2025 `HGRL` Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters, <u>[arXiv](https://arxiv.org/abs/2411.01155)</u>
 - AAAI 2023 `HGRL` Simple and Effcient Heterogeneous Graph Neural Network, <u>[arXiv](https://arxiv.org/abs/2207.02547)</u>
 - WWW 2020, `HGRL` Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding, <u>[website](https://blog.csdn.net/byn12345/article/details/105101492)</u>
