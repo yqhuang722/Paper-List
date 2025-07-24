@@ -15,8 +15,8 @@
 
 
 # Recent Read Papers
-- ICLR 2025 `HGRL` Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters, <u>[arXiv](https://arxiv.org/abs/2411.01155)</u>
-- AAAI 2023 `HGRL` Simple and Effcient Heterogeneous Graph Neural Network, <u>[arXiv](https://arxiv.org/abs/2207.02547)</u>
+- ICLR 2025, `HGRL` Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters, <u>[arXiv](https://arxiv.org/abs/2411.01155)</u>
+- AAAI 2023, `HGRL` Simple and Effcient Heterogeneous Graph Neural Network, <u>[arXiv](https://arxiv.org/abs/2207.02547)</u>
 - WWW 2020, `HGRL` Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding, <u>[website](https://blog.csdn.net/byn12345/article/details/105101492)</u>
 - WWW 2019, `HGRL` Heterogeneous Graph Attention Network, <u>[arXiv](https://arxiv.org/abs/1903.07293)</u>
 - AAAI 2025, `LLM+Graph` Multi-View Empowered Structural Graph Wordification for Language Models, <u>[arXiv](https://arxiv.org/abs/2406.15504)</u>
